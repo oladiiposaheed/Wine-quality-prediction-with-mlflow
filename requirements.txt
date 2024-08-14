@@ -1,0 +1,12 @@
+Create conda virtual environment
+#################################
+conda create -n mlflow-1 python=3.12.4 -y
+
+To activate this environment, use
+ ####################################
+
+conda activate mlflow-1
+
+To deactivate an active environment, use
+#
+conda deactivate
